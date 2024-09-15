@@ -1,6 +1,6 @@
 ## Demo
 
-![User Profile - Mehdi Neysi](https://i.ibb.co/rHWTSkW/Screenshot-2021-04-09-190456.png)
+
 
 ## Features
 
@@ -18,8 +18,3 @@
 - [React](https://reactjs.org)
 - [Chakra UI](https://chakra-ui.com)
 
-## Contact with Me
-
-- [Email](mailto:dev.mehdineysi@gmail.com)
-- [Instagram](https://instagram.com/neysidev)
-- [Twitter](https://twitter.com/neysidev)
